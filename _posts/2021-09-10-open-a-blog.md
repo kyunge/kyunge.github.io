@@ -16,59 +16,16 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 
 sidebar: []
 ---
 
-블로그를 오픈했다.
+안녕하세요 :)
 
-이곳은 엄연한 기술블로그 이다.
+어디가지또 입니다. 이번에 기술 블로그를 오픈하게 되었습니다.
 
-## section 1
+제가 일을 시작하고부터 공부했던 기술이나 새로 배운 기술들을 포스팅해 볼 생각이고요
 
-Jekyll also offers powerful support for code snippets:
+제 블로그에 방문해 주신 여러분께 많은 도움이 되었으면 좋겠습니다.
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-## section 2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+감사합니다.
