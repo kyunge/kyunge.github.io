@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: <?>
+title: Where
 email: ky.jang@purple.io
 author: GitHub User
 
@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "Where to again?'s Blog"
     subheading: "by kiyoung"
-    banner: "Your image url"
+    banner: "asset/banner.jp"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
