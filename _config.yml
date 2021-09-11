@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: wetgo
+email: ky.jang@purple.io
 author: GitHub User
 
 # Copyright setting
@@ -154,11 +154,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "where to again?'s Blog"
+    subheading: "by kiyoung"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
